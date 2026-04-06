@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/filin/CLionProjects/tests/cmake-build-release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
